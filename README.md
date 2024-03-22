@@ -1,5 +1,3 @@
-<img align="right" alt="coding" width="1700" height="600" src="https://www.marktechpost.com/wp-content/uploads/2023/08/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it-scaled.jpg">
-
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am a 3rd year computer engineering student.</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
@@ -18,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-utkurak-046529205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-utkurak-046529205" height="30" width="40" /></a>
 <a href="https://instagram.com/yusf.utkurak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusf.utkurak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yusufutkurak1363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusufutkurak1363" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@yusufutkurak1363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yusufutkurak1363" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
