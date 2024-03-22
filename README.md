@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am a 3rd year computer engineering student.</h3>
 
+<img align="right" alt="coding" width="500" src="[https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)">
+
+
 - 🔭 I’m currently working on [Bite - Robodog](https://github.com/yusufutkurak/Bite)
 
 - 🌱 I’m currently learning **Web3 - ICP - Motoko**
