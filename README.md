@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1700" height="600" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+<img align="right" alt="coding" width="1700" height="600" src="https://www.marktechpost.com/wp-content/uploads/2023/08/man-neon-suit-sits-chair-with-neon-sign-that-says-word-it-scaled.jpg">
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am a 3rd year computer engineering student.</h3>
