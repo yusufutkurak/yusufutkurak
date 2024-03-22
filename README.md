@@ -1,8 +1,8 @@
-<img align="right" alt="coding" width="2000" height="600" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv">
+<img align="right" alt="coding" width="1700" height="600" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I am a 3rd year computer engineering student.</h3>
-<img align="right" alt="coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🔭 I’m currently working on [Bite - Robodog](https://github.com/yusufutkurak/Bite)
 
