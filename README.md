@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Bite - Robodog](https://github.com/yusufutkurak/Bite)
 
-- 🌱 I’m currently learning **Web3 - ICP - Motoko**
+- 🌱 I’m currently learning **Web3 - ICP - Rust**
 
 - 💬 Ask me about **Robotic? İnverse Kinematic?**
 
