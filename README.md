@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yusuf Utkurak</h1>
 <h3 align="center">Computer Engineer | Product-Focused Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="coding animation"/>
+<img align="right" alt="coding animation" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+
+<p align="left">
+  I am a Computer Engineering graduate passionate about building scalable, end-to-end applications in <strong>Web, AI, and Web3</strong> domains.
+  <br><br>
+  I bridge the gap between complex backend architectures and intuitive user experiences, with a strong background in <strong>Robotics</strong>.
 </p>
 
-<p align="center">
-  I am a Computer Engineering graduate passionate about building scalable, end-to-end applications in <strong>Web, AI, and Web3</strong> domains. I bridge the gap between complex backend architectures and intuitive user experiences, with a strong background in <strong>Robotics</strong>.
-</p>
-
----
+<br clear="right"/> ---
 
 ### 🚀 Featured Projects & Products
 
