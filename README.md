@@ -1,48 +1,55 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">Computer Engineering Student & Open Source Developer</h3>
+<h1 align="center">Hi 👋, I'm Yusuf Utkurak</h1>
+<h3 align="center">Computer Engineer | Product-Focused Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="coding animation"/>
 </p>
 
 <p align="center">
-  I bridge the gap between hardware and software. Passionate about building browser extensions, robotics, and clean UI tools.
+  I am a Computer Engineering graduate passionate about building scalable, end-to-end applications in <strong>Web, AI, and Web3</strong> domains. I bridge the gap between complex backend architectures and intuitive user experiences, with a strong background in <strong>Robotics</strong>.
 </p>
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 Featured Projects & Products
 
 > **[Refined for Gemini](https://github.com/YUSUF_KULLANICI_ADIN/refined-for-gemini)**
 > 
 > A powerful browser extension that customizes Google Gemini with dark themes and PDF export functionality.
-> * 🌟 **Live on:** [Microsoft Edge Store](LINK_GELECEK) & [Chrome Web Store](LINK_GELECEK)
+> * 🌟 **Status:** Live on [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/domejnlopkhggmenfgcmcehijhlbhoca) & Chrome Web Store
 > * 🛠 **Stack:** JavaScript, CSS, Chrome Extension API
 
-- 🔭 I’m also maintaining **[Bite - Robodog](https://github.com/yusufutkurak/Bite)** (Robotics Project)
-- 🌱 I’m currently deep diving into **TypeScript** & **Browser Extensions**
-- ⚡ Fun fact: **I love robotic actuators & optimized code.**
+> **[Midori AI](LINK_GELECEK)**
+> 
+> A scalable Enterprise AI Platform featuring a high-performance RAG pipeline and hybrid microservices architecture.
+> * 🧠 **Tech:** LangChain, Milvus, Python FastAPI, Nest.js, Docker
+
+- 🔭 **Robotics:** Lead Engineer of **[Byte RoboDog](https://github.com/yusufutkurak/Bite)** - A custom quadruped robot (C++, ROS, KiCad).
+- 🏆 **Web3:** Developed "Holy Dice", a dApp awarded a **$5,000 grant** by the ICP Grant Program.
+- 🌱 **Currently Exploring:** Advanced RAG Pipelines & Agentic AI Systems.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technical Arsenal
 
 <p align="left">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CPP"/></a>
   
   <br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 
-  <br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node"/></a>
+  <br> <a href="#" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/></a>
 </p>
 
 ---
@@ -56,7 +63,7 @@
 
 ---
 
-### 📫 Connect & Support
+### 📫 Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/yusuf-utkurak-046529205" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
