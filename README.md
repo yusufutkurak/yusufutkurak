@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently deep diving into **Advanced RAG Pipelines & Agentic AI**
 
-- 🏆 Achievements: **$5,000 Grant Winner (ICP Hub)** & **Byte RoboDog Lead**
+- 🏆 Achievements: **$5,000 Grant Winner (ICP Hub)** 
 
 - 💬 Ask me about **Browser Extensions, React & Robotics**
 
