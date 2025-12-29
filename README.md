@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Product-Focused Full-Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on **[Refined for Gemini](https://github.com/YUSUF_KULLANICI_ADIN/refined-for-gemini)** & **Midori AI**
+- 🔭 I’m currently working on **[Refined for Gemini]([https://github.com/YUSUF_KULLANICI_ADIN/refined-for-gemini](https://github.com/yusufutkurak/refined-for-gemini))** & **Midori AI**
 
 - 🌱 I’m currently deep diving into **Advanced RAG Pipelines & Agentic AI**
 
