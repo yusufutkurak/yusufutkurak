@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Developer</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGw0OHh4ZmF5OWYyaWNqeTA0aHFiaTc1czFtNmM3YzZ5YXRud2xpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🔭 I’m currently working on **Refined for Gemini** & **Midori AI**
+- 🔭 I’m currently working on **Midori AI**
 
 - 🌱 I’m currently deep diving into **Advanced RAG Pipelines & Agentic AI**
 
